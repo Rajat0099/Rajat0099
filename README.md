@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat0099&label=Profile%20views&color=0e75b6&style=flat" alt="rajat0099" /> </p>
 
+- 🌱 I am currently growing my skills in Data analytics field **with the help of google and Microsoft data analytics courses**
+
 - 📫 You can reach me through **rajat15121998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat0099&show_icons=true&locale=en" alt="rajat0099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat0099&" alt="rajat0099" /></p>
-
